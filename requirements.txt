@@ -1,7 +1,6 @@
 tk
 pillow
 matplotlib
-opencv-python
 numpy
 pandas
 streamlit
